@@ -11,7 +11,7 @@ public class StudentList
     public static void main(String[] args)
     {
         //1. create an array of Student Objects of size 5
-        Student[] students = new Student[10];
+        Student[] students = new Student[5];
         //2. Add 5 students to the array
         Student s1 = new Student("John");
         students[0] = s1;
