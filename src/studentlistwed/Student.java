@@ -4,7 +4,7 @@ package studentlistwed;
 /**
  * A class to model student Objects. A student has a name.
  * @author dancye, 2023
- * @modified by Kaitlin, 2023
+ * @modified by Kaitlin, June 19, 2023
  */
 public class Student 
 {
